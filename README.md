@@ -27,19 +27,38 @@
 ### Interaction
   
   - WASD to control the player. 
-  - SPACE to jump
-  - Q for abilities
-  - Different abilities will affect the character 
-  - Suspenseful music as enemy chases
+  - SPACE to jump.
+  - Q for abilities.
+  - Different abilities will affect the character. 
+  - Suspenseful music as enemy chases.
   
 ### Rules
 
-  - 3 Item Inventory (Including the main package but not animal special ability)
+  - 3 Item Inventory (Including the main package but not animal special ability).
     - Main Package
     - 2 extra Health/Special
+  - Different level > Different Animal > Different Special Ability (Swimming/Flying).
+  - Enemies does damage > You drop the package.
+  - More items > Heavier (Affect Jumping) > Slower (Affect walk speed).
+  - Items can be carried and swap between levels.
+  - 1 big enemy chases you after you grab the main package.
+  - Smaller enemies patrolling, flying across the screen. 
 
 ### Rewards
+  
+  - Collect items in each level.
+  - Animal Dance Party
 
 ### What happens in the next level?
+  
+  - The next level is a different biome.
+  - You become a different animal.
+  - The enemies become stronger and deal more damage.
+  - Different biome = Different Items
+  - The package is collected closer to the beginning, so the chaser starts chasing earlier.
 
 ### Meet The Team
+
+  - Micah Imakyure
+  - Karen Wong
+  - Rainier Javillo
