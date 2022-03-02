@@ -11,6 +11,9 @@
   - You play as a variety of cube based animals.
 
 ### Emotion
+  
+  - Cute - Overall feeling.
+  - Suspenseful - Being continually chased by an enemy.
 
 ### Suspense to Goals
 
