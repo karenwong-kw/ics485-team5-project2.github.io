@@ -59,6 +59,14 @@
 
 ### Meet The Team
 
-  - Micah Imakyure
   - Karen Wong
+  
+  ![](images/gc-karen.png)
+  
+  - Micah Imakyure
+  
+  ![](images/gc-micah.png)
+  
   - Rainier Javillo
+
+  ![](images/gc-rainier.png)
